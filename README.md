@@ -9,7 +9,7 @@
 🎸 &nbsp;I'm a very passionate about Music and likes to sing & play Guitar all the time.<br>
 
 ✉️ &nbsp;You can shoot me an email at <a href="mailto:atharv1901@gmail.com">atharv1901@gmail.com</a>! I’ll try to respond as soon as I can.<br>
-📄 &nbsp;Please have a look at my <a href="[https://www.adityavsingh.com/resume.html](https://drive.google.com/file/d/1l1CaNmEbIgABICIv4Ad5TYYDzq1Xds2a/view)">Résumé</a> for more details about me. I’m open to feedback and suggestions!</p><hr align="center" width="33%">
+📄 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1l1CaNmEbIgABICIv4Ad5TYYDzq1Xds2a/view">Résumé</a> for more details about me. I’m open to feedback and suggestions!</p><hr align="center" width="33%">
 <h3 id="-tech-stack" style="font-family:Montserrat; letter-spacing:-0.2px;">🛠 &nbsp;Tech Stack</h3>
 <p align="center" style="font-family:Montserrat;"><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"></a>
 &nbsp;<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"></a>
