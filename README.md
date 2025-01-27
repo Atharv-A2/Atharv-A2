@@ -35,7 +35,7 @@
 
 <h3 id="️-github-analytics" style="font-family:Montserrat;">⚙️ &nbsp;GitHub Analytics
 <p align="center">
-</p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-a2&amp;" alt="atharv-a2"></p>
+</p>
 <p></p><p></p><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Atharv-A2&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="Atharv-A2"></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharv-a2&amp;show_icons=true&amp;locale=en" alt="atharv-a2"></p>
 <p></p>
